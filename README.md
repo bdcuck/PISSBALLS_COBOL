@@ -1,2 +1,3 @@
-# PISSBALLS_COBOL
-Variation of the classic FizzBuzz in COBOL
+# PISSBALLS_COB
+
+Classic variation of FizzBuzz in COBOL
